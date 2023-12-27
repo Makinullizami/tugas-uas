@@ -154,18 +154,14 @@ body {
   padding: 5.5rem 7% 1.4rem;
 }
 
-.about h2,
-.shop h2,
-.contact h2 {
+.about h2 {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 3rem;
   color: #ffb71b;
 }
 
-.about h2 span,
-.shop h2 span,
-.contact h2 span {
+.about h2 span {
   color: #000000;
 }
 
